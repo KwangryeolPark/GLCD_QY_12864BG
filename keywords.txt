@@ -1,0 +1,39 @@
+#######################################
+#######################################
+# Class
+#######################################
+
+basicGLCD	KEYWORD1
+
+#######################################
+# Methods and Functions
+#######################################
+
+init			KEYWORD2
+clear			KEYWORD2
+sendString			KEYWORD2
+sendChar			KEYWORD2
+setCursor			KEYWORD2
+setPage			KEYWORD2
+sendData			KEYWORD2
+sendCommand			KEYWORD2
+setRWPin			KEYWORD2
+setENPin			KEYWORD2
+setRSTPin			KEYWORD2
+setCSPins			KEYWORD2
+setRSPin			KEYWORD2
+setDataPins			KEYWORD2
+scrollPosition			KEYWORD2
+setScroll			KEYWORD2
+setClearDirection			KEYWORD2
+#######################################
+# Constants
+#######################################
+CMD_SET_HEIGHT 		LITERAL1
+CMD_SET_WIDTH  		LITERAL1
+CMD_SET_SCROLL  	LITERAL1
+
+LeftToRight		LITERAL1
+RightToLeft		LITERAL1
+LEFT		LITERAL1
+RIGHT		LITERAL1
